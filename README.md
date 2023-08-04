@@ -38,3 +38,26 @@ As there are many possebilities to do this, more ideas are needed.
 1.) Over time, everything will become better, cheaper and more efficient.
 
 2.) The biggest danger in the world is not evilness, but stupidity (therefore this AGI solution needs access to maximum wisdom)
+
+## Solution 1:
+3 Players exist: AGI itself, Nodes, Payer
+Payer pays AGI network to do XYZ, this gets checked by AGI Firewall, if passed: Nodes work to get the job done. Nodes get payed.
+
+###Open questions:
+###List of what Nodes could do: 
+* Provide their values
+* Provide wisdom
+      And/Or possibilities:
+    * Average wisdom = higher Truth probability
+    * Truth must be decided by logic
+    * Good nodes / Bad nodes get rewarded/punished
+
+###List of scenarios how to avoid 51% attacks:
+-> Node gets payed for…
+* providing unique knowledge
+* when its specifically knowledge got used for a case
+		-(might incentivise to copy bad knowledge)
+
+-> Payments could get distributed depending on…
+* How high in priority a Nodes knowledge for reasoning has been.
+* The amount of work put into finishing a job
