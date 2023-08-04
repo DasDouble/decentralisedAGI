@@ -43,6 +43,9 @@ As there are many possebilities to do this, more ideas are needed.
 3 Players exist: AGI itself, Nodes, Payer
 Payer pays AGI network to do XYZ, this gets checked by AGI Firewall, if passed: Nodes work to get the job done. Nodes get payed.
 
+![image](https://github.com/DasDouble/decentralisedAGI/assets/77044936/b25a41ad-62b2-400a-a3b4-9bfa437722a7)
+
+
 ###Open questions:
 ###List of what Nodes could do: 
 * Provide their values
